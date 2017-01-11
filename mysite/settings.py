@@ -25,7 +25,7 @@ SECRET_KEY = 'l-0mfgo$cf4+%@6m(dhh+lmufes-h84&_hec%d8dfytv+p*hez'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sangunlaw.pythonanywhere.com']
 
 
 # Application definition
